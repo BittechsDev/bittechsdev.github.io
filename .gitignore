@@ -1,0 +1,18 @@
+# Local editor and assistant state
+.agents/
+.claude/
+.codex/
+.idea/
+.vscode/
+AGENTS.md
+CLAUDE.md
+
+# Operating-system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Temporary files
+*.log
+*.tmp
+*~
